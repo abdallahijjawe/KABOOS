@@ -1,2 +1,2 @@
 # KABOOS
-git course
+git course abdalla hijjawe
